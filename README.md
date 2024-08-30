@@ -10,5 +10,5 @@ Steps to follow:
 1. Use the command git clone https://github.com/mahika34/DSA-project-3rd-sem.git
 2. cd DSA-project-3rd-sem
 3. Run the c file using: gcc final.c
-                         ./a.exe
+                      <br>./a.exe
 4. Follow the instructions and buy whatever you want
